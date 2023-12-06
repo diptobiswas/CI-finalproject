@@ -2,7 +2,7 @@
 `Authors: Dipto Biswas (1075562), Ivan Odiel Magtangob (1092635)`
 `Last Updated: December 8th, 2023`
 
-#### Files included:
+#### FILES:
 - Notebook (.ipynb) files for each evaluated model
     - Naive Bayes
     - K-Nearest Neighbours
