@@ -10,7 +10,7 @@
     - Logistic Regression
     - Stochastic Gradient Descent
     - Support Vector Machine
-- audio_embeddinngs.pt (torch file storing processed audio embeddings)
+- audio_embeddings.pt (torch file storing processed audio embeddings)
 - README.md
 
 #### RUNNING
@@ -20,8 +20,8 @@ Execute each Notebook file by pressing 'Run All' in the toolbar above.
 
 #### DATASET
 The dataset used for this project from is from [Huggingface](https://huggingface.co/datasets/TrainingDataPro/speech-emotion-recognition-dataset) by TrainingDataPro, which contains 80 .wav files  (<10s) of conversation of 4 classes: ['euphoric', 'joyfully', 'sad', 'surprised'].
-#### RESULTS SUMMARY
 
+#### RESULTS SUMMARY
 After evaluation, the following mean testing accuracies were obtained:
 - Naive Bayes: 30.00%
 - K-Nearest Neighbours: 22.50%
