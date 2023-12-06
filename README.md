@@ -16,3 +16,6 @@
 Each model is self-contained in its own Jupyter Notebook file, where dependencies are automatically checked and downloaded.
 
 Execute each Notebook file by pressing 'Run All' in the toolbar above.
+
+#### DATASET
+The dataset used for this project from is from [Huggingface](https://huggingface.co/datasets/TrainingDataPro/speech-emotion-recognition-dataset) by TrainingDataPro, which contains 80 .wav files  (<10s) of conversation of 4 classes: ['euphoric', 'joyfully', 'sad', 'surprised'].
