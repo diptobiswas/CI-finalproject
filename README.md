@@ -1,5 +1,5 @@
 ### FINAL PROJECT
-`Authors: Dipto Biswas (1075562), Ivan Odiel Magtangob (1092635)`
+`Authors: Dipto Biswas (1075562), Ivan Odiel Magtangob (1092635)`  
 `Last Updated: December 8th, 2023`
 
 #### FILES:
