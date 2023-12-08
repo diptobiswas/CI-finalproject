@@ -18,7 +18,7 @@ Each model is self-contained in its own Jupyter Notebook file, where dependencie
 
 The Naive Bayes classifier (`naivebayes.ipynb`) was created first and is responsible for processing the audio dataset
 into embeddings. These embeddings are then saved locally (`audio_embeddings.pt`) for other classifiers to access.
-As such, **run Naive Bayes first before any other classifier**.
+If `audio_embeddings.pt` is missing, **run Naive Bayes before any other classifier** to create it.
 
 Execute each Notebook file by pressing 'Run All' in each Notebook's upper toolbar.
 
