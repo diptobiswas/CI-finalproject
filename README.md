@@ -16,7 +16,11 @@
 #### RUNNING
 Each model is self-contained in its own Jupyter Notebook file, where dependencies are automatically checked and downloaded.
 
-Execute each Notebook file by pressing 'Run All' in the toolbar above.
+The Naive Bayes classifier (`naivebayes.ipynb`) was created first and is responsible for first processing the audio dataset
+into embeddings. These embeddings are then saved locally for other classifiers to access. Thus, **Naive Bayes should be run**
+**first**.
+
+Execute each Notebook file by pressing 'Run All' in each Notebook's upper toolbar.
 
 #### DATASET
 The dataset used for this project from is from [Huggingface](https://huggingface.co/datasets/TrainingDataPro/speech-emotion-recognition-dataset) by TrainingDataPro, which contains 80 .wav files  (<10s) of conversation of 4 classes: ['euphoric', 'joyfully', 'sad', 'surprised'].
